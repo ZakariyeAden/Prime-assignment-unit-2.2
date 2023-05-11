@@ -27,7 +27,7 @@ if (number >= 2) {
 
 // 1. WRITE YOUR DESCRIPTION HERE
 // We make variable named name assign it to string called 'Dane'
-// we use conditonal statement, if name equal to 'Mary'. if it is equal to 'Mary', we would console.log('Hi, Mary')
+// we use conditonal statement, if name equal to 'Mary'. if it is equal to value 'Mary', we would console.log('Hi, Mary')
 // else we would console.log('How do you do?')
 // The Result we get in the console or console.log('How do you do?')
 
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We have two variables. We have secert variable and code variable assign to 123.
+// We have two if conditionals statements. The first if checks if code is equal to value 123. Then we have two blocks of code that executes if its true secert is equal to string 'super', The second code excutes code is equal to code * 2.
+// The second if checks if code more than 250. Then we have code that excutes if its true that secret is equal to string 'duper'.
+// The Result we get is console log 'super'. The code variable number becomes 246 now.
 
 //CODE
 /*
