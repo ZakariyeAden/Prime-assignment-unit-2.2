@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make variable named name assign it to string called 'Dane'
+// we use conditonal statement, if name equal to 'Mary'. if it is equal to 'Mary', we would console.log('Hi, Mary')
+// else we would console.log('How do you do?')
+// The Result we get in the console or console.log('How do you do?')
 
 //CODE
 /*
