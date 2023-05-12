@@ -70,10 +70,10 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+//  We have three variables. First variable is boolean set to true named isStudent. Second variable is set to 34 named age.Third variable is set to 55407 named zip.
+// We have condional if and else if statement. We have compound in if, the statement is if isStudent equal to value true and zip more than 80000. If the statement is true we console log You're a student on the West Coast!. 
+// We have else if statement that is compound. Else if isStudent equal to value false or age less than 30 Console log 'What are your hobbies?'. We have another else if statement that is not compound. Else if isStudent equal to value true Console log 'Welcome to Prime!'.
+// We have else statement. Else Console log 'How about the weather?'. The Result we get is in the Console log 'Welcome to Prime!'.
 
 //CODE
 /*
