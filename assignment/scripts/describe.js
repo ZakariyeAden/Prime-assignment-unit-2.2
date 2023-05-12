@@ -162,7 +162,7 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
-
+// FIX -- change the console log in the if to 'enter' and change the else in console log to 'No Entry'. 
 if(minAge <= age) {
   console.log('no entry');
 } else {
